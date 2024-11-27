@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: SizedBox(
                   width: 100,
                   height: 100,
-                  child: Image.asset('assets/images/skull.png')),
+                  child: Image.asset('assets/images/image1.png')),
             ),
 
             const Text(
